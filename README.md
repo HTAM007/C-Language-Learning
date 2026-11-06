@@ -35,3 +35,10 @@ My C language learning journey, exercises and projects.
 C Language → Embedded Systems → STM32 → Electronic Design Contest
 
 持续学习，持续积累。
+
+## My Learning Record
+
+- First GitHub repository created.
+- Successfully learned Git Clone.
+- Successfully learned Git Commit.
+- Successfully learned Git Push.
