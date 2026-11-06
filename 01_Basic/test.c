@@ -2,13 +2,14 @@
 
 int main()
 {
-    int a = 10;
-    int b = 20;
+    int a , b;
+    scanf("%d %d", &a, &b);
     int sum = a + b;
-
-    printf("a = %d\n", a);
-    printf("b = %d\n", b);
+    int diff = a - b;
+    int product = a * b;
     printf("sum = %d\n", sum);
+    printf("diff = %d\n", diff);
+    printf("product = %d\n", product);
 
     return 0;
 }
